@@ -9,13 +9,8 @@ I'm a passionate Full Stack Web And App Developer and I am interested in develop
 
 - ⚡ Fun fact **I enjoy cycling!**
 
-### Connect with me:
-
-
-
-[<img align="left" alt="Kjeld264 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="DustinPetersen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Stoneyemoji | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<br>
+<br>
 
 ## 🚀 Languages and Tools:
 
@@ -82,6 +77,3 @@ Liked some of my work? Buy me a coffee (or more likely a beer)
 
 
 
-[twitter]: https://twitter.com/kjeld264
-[instagram]: https://instagram.com/stoneyemoji
-[linkedin]: https://linkedin.com/in/DustinPetersen

@@ -32,8 +32,9 @@ I'm a passionate Full Stack Web And App Developer and I am interested in develop
 
 
 ## 📊 My Github Stats
-
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DustinPetersen&hide=prs&count_private=true&show_icons=true&theme=radical)](https://github.com/DustinPetersen/github-readme-stats)
+<p align="center">
+  [![Dustin's GitHub stats](https://github-readme-stats.vercel.app/api?username=DustinPetersen&hide=prs&count_private=true&show_icons=true&theme=radical)](https://github.com/DustinPetersen/github-readme-stats)
+  </p>
 
 ## ✨ Top Languages Card
 
@@ -64,8 +65,12 @@ I'm a passionate Full Stack Web And App Developer and I am interested in develop
 Liked some of my work? Buy me a coffee (or more likely a beer)
 
 <a href="https://www.buymeacoffee.com/kjeld264" target="_blank"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+
+<img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100">
+
+
 <!--
 **DustinPetersen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 

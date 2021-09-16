@@ -24,10 +24,4 @@ const Sam = {
 }
 ```
 
-# <center>Join Our Team Today!
-
-<p align="center">
-<a href="https://punchcard.io/careers/">
- <img src="https://punchcard.io/wp-content/uploads/2020/12/normal_share_image_1601410142.png" height="400" width="700 />
-</a></p>
-
+<a href="" rel="some text"><img src="https://punchcard.io/wp-content/uploads/2020/12/normal_share_image_1601410142.png" alt="" /></a>
